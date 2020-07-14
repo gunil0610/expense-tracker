@@ -1,1 +1,4 @@
 # Expense Tracker
+
+- localStorage
+- arrayMethods
